@@ -1,2 +1,2 @@
-- [Счетчик] (htpps://MutalievM.github.io/counter)
-- [Сайт] (htpps://MutalievM.github.io/index.html)
+- [Сайт](https://mutalievm.github.io/)
+- [Счетчик](https://mutalievm.github.io/counter)
